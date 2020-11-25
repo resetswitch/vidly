@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 django = "==3.*"
 ipykernel = "*"
+pylint-django = "*"
 
 [dev-packages]
 
