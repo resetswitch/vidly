@@ -7,6 +7,7 @@ name = "pypi"
 django = "==3.*"
 ipykernel = "*"
 pylint-django = "*"
+gunicorn = "*"
 
 [dev-packages]
 
