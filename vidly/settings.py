@@ -27,7 +27,8 @@ SECRET_KEY = os.getenv('SECRET_KEY', 'Optional default value')
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'aqueous-meadow-77455.herokuapp.com' 
+    'aqueous-meadow-77455.herokuapp.com',
+    '127.0.0.1' 
 ]
 
 
